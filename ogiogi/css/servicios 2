@@ -1,0 +1,872 @@
+servicios 2
+
+
+
+
+/* 6 */
+
+position: absolute;
+width: 363px;
+height: 758px;
+left: 924px;
+top: 1px;
+
+
+
+/* Text */
+
+position: absolute;
+width: 345px;
+height: 78px;
+left: 8px;
+top: 680px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 26px;
+/* or 173% */
+letter-spacing: 0.5px;
+
+color: #5D5F65;
+
+
+
+/* Title */
+
+position: absolute;
+width: 355px;
+height: 26px;
+left: 8px;
+top: 639px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height, or 130% */
+
+color: #141720;
+
+
+
+/* Phone */
+
+position: absolute;
+width: 40px;
+height: 618px;
+left: 0px;
+top: 0px;
+
+
+
+/* icomoon-ignore */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: calc(50% - 40px/2);
+top: 0px;
+
+
+
+/* Shape */
+
+position: absolute;
+width: 21.33px;
+height: 35.99px;
+left: 9.34px;
+top: 582.01px;
+
+background: #C71222;
+
+
+/* Path */
+
+position: absolute;
+width: 21.33px;
+height: 35.99px;
+left: 9.34px;
+top: 582.01px;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18.66px;
+height: 6.66px;
+left: 10.67px;
+top: 610px;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18.66px;
+height: 21.3px;
+left: 10.67px;
+top: 587.37px;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 18.66px;
+height: 2.69px;
+left: 10.67px;
+top: 583.34px;
+
+background: #DADADA;
+
+
+/* Shape */
+
+position: absolute;
+width: 4px;
+height: 1.33px;
+left: 18px;
+top: 612.66px;
+
+background: #EE1A21;
+
+
+/* 5 */
+
+position: absolute;
+width: 355px;
+height: 177px;
+left: 542px;
+top: 582px;
+
+
+
+/* Text */
+
+position: absolute;
+width: 345px;
+height: 78px;
+left: 0px;
+top: 99px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 26px;
+/* or 173% */
+letter-spacing: 0.5px;
+
+color: #5D5F65;
+
+
+
+/* Title */
+
+position: absolute;
+width: 355px;
+height: 26px;
+left: 0px;
+top: 58px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height, or 130% */
+
+color: #141720;
+
+
+
+/* Joystick */
+
+position: absolute;
+width: 40px;
+height: 38px;
+left: 1px;
+top: 0px;
+
+
+
+/* Shape */
+
+position: absolute;
+width: 39.95px;
+height: 37.4px;
+left: 0px;
+top: 0.3px;
+
+background: #C71222;
+
+
+/* Path */
+
+position: absolute;
+width: 39.95px;
+height: 37.4px;
+left: 0px;
+top: 0.3px;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 36.71px;
+height: 19.8px;
+left: 1.08px;
+top: 15.7px;
+
+background: #DADADA;
+
+
+/* Shape */
+
+position: absolute;
+width: 7.56px;
+height: 7.7px;
+left: 7.56px;
+top: 20.1px;
+
+background: #C71222;
+
+
+/* Shape */
+
+position: absolute;
+width: 4.32px;
+height: 4.4px;
+left: 24.83px;
+top: 21.2px;
+
+background: #C71222;
+
+
+/* Path */
+
+position: absolute;
+width: 4.32px;
+height: 4.4px;
+left: 24.83px;
+top: 21.2px;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 1.08px;
+height: 1.1px;
+left: 25.91px;
+top: 22.3px;
+
+background: #DADADA;
+
+
+/* Shape */
+
+position: absolute;
+width: 4.32px;
+height: 4.4px;
+left: 30.23px;
+top: 23.4px;
+
+background: #C71222;
+
+
+/* Path */
+
+position: absolute;
+width: 4.32px;
+height: 4.4px;
+left: 30.23px;
+top: 23.4px;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 1.08px;
+height: 1.1px;
+left: 31.31px;
+top: 24.5px;
+
+background: #DADADA;
+
+
+/* 4 */
+
+position: absolute;
+width: 355px;
+height: 759px;
+left: 152px;
+top: 0px;
+
+
+
+/* Text */
+
+position: absolute;
+width: 345px;
+height: 78px;
+left: 0px;
+top: 681px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 26px;
+/* or 173% */
+letter-spacing: 0.5px;
+
+color: #5D5F65;
+
+
+
+/* Title */
+
+position: absolute;
+width: 355px;
+height: 26px;
+left: 0px;
+top: 640px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height, or 130% */
+
+color: #141720;
+
+
+
+/* Rocket */
+
+position: absolute;
+width: 29px;
+height: 620px;
+left: 1px;
+top: 0px;
+
+
+
+/* icomoon-ignore */
+
+position: absolute;
+width: 28.93px;
+height: 40px;
+left: 0px;
+top: 0px;
+
+
+
+/* Shape */
+
+position: absolute;
+width: 7.5px;
+height: 7px;
+left: 10.71px;
+top: 589px;
+
+background: #C71222;
+
+
+/* Path */
+
+position: absolute;
+width: 7.5px;
+height: 7px;
+left: 10.71px;
+top: 589px;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 4.29px;
+height: 4px;
+left: 11.79px;
+top: 590px;
+
+background: #DADADA;
+
+
+/* Shape */
+
+position: absolute;
+width: 28.93px;
+height: 32px;
+left: 0px;
+top: 580px;
+
+background: #C71222;
+
+
+/* Path */
+
+position: absolute;
+width: 28.93px;
+height: 32px;
+left: 0px;
+top: 580px;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 4.29px;
+height: 5px;
+left: 3.21px;
+top: 606px;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 11.79px;
+height: 29px;
+left: 8.57px;
+top: 582px;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 4.29px;
+height: 5px;
+left: 21.43px;
+top: 606px;
+
+background: #DADADA;
+
+
+/* Shape */
+
+position: absolute;
+width: 1.07px;
+height: 7px;
+left: 13.93px;
+top: 613px;
+
+background: #C71222;
+
+
+/* Shape */
+
+position: absolute;
+width: 1.07px;
+height: 4px;
+left: 17.14px;
+top: 613px;
+
+background: #C71222;
+
+
+/* Shape */
+
+position: absolute;
+width: 1.07px;
+height: 4px;
+left: 10.71px;
+top: 613px;
+
+background: #C71222;
+
+
+/* 3 */
+
+position: absolute;
+width: 355px;
+height: 176px;
+left: 932px;
+top: 336px;
+
+
+
+/* Text */
+
+position: absolute;
+width: 345px;
+height: 78px;
+left: 0px;
+top: 98px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 26px;
+/* or 173% */
+letter-spacing: 0.5px;
+
+color: #5D5F65;
+
+
+
+/* Title */
+
+position: absolute;
+width: 355px;
+height: 26px;
+left: 0px;
+top: 57px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height, or 130% */
+
+color: #141720;
+
+
+
+/* Hearth */
+
+position: absolute;
+width: 41px;
+height: 36px;
+left: 1px;
+top: 0px;
+
+
+
+/* Shape */
+
+position: absolute;
+width: 40px;
+height: 36px;
+left: 0.18px;
+top: 0px;
+
+background: #C71222;
+
+
+/* Path */
+
+position: absolute;
+width: 36.8px;
+height: 32.12px;
+left: 1.78px;
+top: 1.61px;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 40px;
+height: 36px;
+left: 0.18px;
+top: 0px;
+
+background: #DADADA;
+
+
+/* 2 */
+
+position: absolute;
+width: 355px;
+height: 178px;
+left: 542px;
+top: 334px;
+
+
+
+/* Text */
+
+position: absolute;
+width: 345px;
+height: 78px;
+left: 0px;
+top: 100px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 26px;
+/* or 173% */
+letter-spacing: 0.5px;
+
+color: #5D5F65;
+
+
+
+/* Title */
+
+position: absolute;
+width: 355px;
+height: 26px;
+left: 0px;
+top: 59px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height, or 130% */
+
+color: #141720;
+
+
+
+/* Smile */
+
+position: absolute;
+width: 40px;
+height: 38px;
+left: 1px;
+top: 0px;
+
+
+
+/* Shape */
+
+position: absolute;
+width: 40px;
+height: 38px;
+left: 0px;
+top: 0px;
+
+background: #C71222;
+
+
+/* Path */
+
+position: absolute;
+width: 40px;
+height: 38px;
+left: 0px;
+top: 0px;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 36.67px;
+height: 34.83px;
+left: 1.67px;
+top: 1.58px;
+
+background: #DADADA;
+
+
+/* Shape */
+
+position: absolute;
+width: 21.43px;
+height: 6.29px;
+left: 8.97px;
+top: 21.71px;
+
+background: #C71222;
+
+
+/* Shape */
+
+position: absolute;
+width: 4.92px;
+height: 4px;
+left: 10.67px;
+top: 12.67px;
+
+background: #C71222;
+
+
+/* Shape */
+
+position: absolute;
+width: 4.92px;
+height: 4px;
+left: 23.8px;
+top: 12.67px;
+
+background: #C71222;
+
+
+/* 1 */
+
+position: absolute;
+width: 355px;
+height: 180px;
+left: 152px;
+top: 332px;
+
+
+
+/* Text */
+
+position: absolute;
+width: 345px;
+height: 78px;
+left: 0px;
+top: 102px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 26px;
+/* or 173% */
+letter-spacing: 0.5px;
+
+color: #5D5F65;
+
+
+
+/* Title */
+
+position: absolute;
+width: 355px;
+height: 26px;
+left: 0px;
+top: 61px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height, or 130% */
+
+color: #141720;
+
+
+
+/* wallet */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1px;
+top: 0px;
+
+
+
+/* Shape */
+
+position: absolute;
+width: 39.98px;
+height: 39.98px;
+left: 0.01px;
+top: 0.01px;
+
+background: #C71222;
+
+
+/* Path */
+
+position: absolute;
+width: 39.98px;
+height: 39.98px;
+left: 0.01px;
+top: 0.01px;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 29.99px;
+height: 6.66px;
+left: 1.67px;
+top: 1.67px;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 36.65px;
+height: 28.32px;
+left: 1.68px;
+top: 10px;
+
+background: #DADADA;
+
+
+/* Shape */
+
+position: absolute;
+width: 8.33px;
+height: 8.33px;
+left: 26.66px;
+top: 20px;
+
+background: #C71222;
+
+
+/* Path */
+
+position: absolute;
+width: 8.33px;
+height: 8.33px;
+left: 26.66px;
+top: 20px;
+
+background: #DADADA;
+
+
+/* Path */
+
+position: absolute;
+width: 5px;
+height: 5px;
+left: 28.33px;
+top: 21.67px;
+
+background: #DADADA;
+
+
+/* Our Services */
+
+position: absolute;
+width: 1133px;
+height: 26px;
+left: 153px;
+top: 227px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 26px;
+/* identical to box height, or 93% */
+text-align: center;
+letter-spacing: 1px;
+
+color: #2B2B2B;
+
+
